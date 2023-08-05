@@ -1,0 +1,20 @@
+.doof {
+    font-family: Helvetica, sans-serif;
+    color: lightskyblue;
+    font-size: 52px;
+    text-align: center;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    color:aqua;
+    list-style: none;
+    text-align: center;
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+}
