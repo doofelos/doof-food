@@ -1,0 +1,33 @@
+body{
+    background: papayawhip;
+}
+
+.doof {
+    font-family: Helvetica, sans-serif;
+    color: lightskyblue;
+    font-size: 52px;
+    text-align: center;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list {
+    display: flex;
+    color:aqua;
+    list-style: none;
+    text-align: center;
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+}
+
+.option {
+    border: 5px dotted tomato;
+    background-color: slategray;
+    flex: 1;
+    padding: 10px auto;
+    margin: 8px;
+}
